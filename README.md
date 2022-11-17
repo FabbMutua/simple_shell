@@ -1,1 +1,2 @@
-# simple_shell
+This is a shell app, built in C.
+
